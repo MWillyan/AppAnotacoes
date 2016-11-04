@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213518148220",
+    "firebase_url": "https://appnotificacoes.firebaseio.com",
+    "project_id": "appnotificacoes",
+    "storage_bucket": "appnotificacoes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213518148220:android:0efa32cd0b11c98c",
+        "android_client_info": {
+          "package_name": "com.example.marcelosena.appanotacoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213518148220-rksgsae0jgas545ojn0qfst880861dpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marcelosena.appanotacoes",
+            "certificate_hash": "82011EBE3740323731C115ADE829F05B48106274"
+          }
+        },
+        {
+          "client_id": "213518148220-i22q1q7gosilr4fujlobmhl78pjn2v50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifWQE4qHcDEnKo-x1NA8FQ_td9AGMcJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213518148220-i22q1q7gosilr4fujlobmhl78pjn2v50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
